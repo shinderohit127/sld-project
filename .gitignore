@@ -7,6 +7,7 @@
 .buildlog/
 .history
 .env
+sld-backend/firebase-service-account.json
 
 
 # Flutter repo-specific
